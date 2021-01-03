@@ -1,3 +1,3 @@
 # Rest-Api (node /express/mongoose/mongodb)
-mpn install
+npn install
 main file : src/app.js
